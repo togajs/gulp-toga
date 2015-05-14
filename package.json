@@ -1,0 +1,24 @@
+{
+  "name": "gulp-toga",
+  "version": "0.1.0",
+  "description": "Gulp plugin for Toga.",
+  "main": "tasks/toga.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/togajs/gulp-toga"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "toga"
+  ],
+  "author": "Shannon Moeller <me@shannonmoeller.com> (http://shannonmoeller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/togajs/gulp-toga/issues"
+  },
+  "homepage": "https://github.com/togajs/gulp-toga"
+}
