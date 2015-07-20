@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/togajs/gulp-toga",
   "devDependencies": {
-    "babel-istanbul": "^0.2.9",
+    "babel-istanbul": "^0.2.10",
     "toga": "^0.5.1"
   }
 }
